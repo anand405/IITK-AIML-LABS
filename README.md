@@ -17,8 +17,6 @@ A production-ready, menu-driven CLI application built in Python to help individu
 - [Logging](#logging)
 - [Bug Fixes & Improvements](#bug-fixes--improvements)
 - [Sample Output](#sample-output)
-- [Contributing](#contributing)
-- [License](#license)
 
 ---
 
@@ -59,8 +57,8 @@ personal-expense-tracker/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/personal-expense-tracker.git
-   cd personal-expense-tracker
+   git clone [https://github.com/your-username/personal-expense-tracker.git](https://github.com/anand405/IITK-AIML-LABS.git)
+   cd personal-expenses-tracker
    ```
 
 2. **Verify Python version:**
@@ -71,12 +69,12 @@ personal-expense-tracker/
 
 3. **Run the application:**
    ```bash
-   python3 personal_expense_tracker.py
+   python3 personal_expenses.py
    ```
 
 4. **Optional – use a custom CSV file:**
    ```bash
-   python3 personal_expense_tracker.py --file my_expenses.csv
+   python3 personal_expenses.py --file my_expenses.csv
    ```
 
 ---
@@ -216,19 +214,3 @@ Expense added successfully.
     Travel            5000.00  ████████████████████
     Food               500.00  ██
 ```
-
----
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create your feature branch: `git checkout -b feature/your-feature-name`
-3. Commit your changes: `git commit -m "feat: add your feature description"`
-4. Push to the branch: `git push origin feature/your-feature-name`
-5. Open a Pull Request
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
